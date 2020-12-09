@@ -1,6 +1,6 @@
 import React from 'react';
-import Home from './home/Home';
+import BookListMainPage from './home/BookListMainPage';
 
-const App = () => <Home />;
+const App = () => <BookListMainPage />;
 
 export default App;
