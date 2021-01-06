@@ -48,3 +48,19 @@ h1, ul, li {
 .sider{
   margin-left: 70%;
 }
+
+.bookWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+
+  .bookArticle {
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+}
