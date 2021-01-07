@@ -1,18 +1,12 @@
 body {
-  background-color: #FFCC00;
+  background-color:white;
   padding: 20px;
   margin: 0;
 }
 h1, ul, li {
   font-family: sans-serif;
 }
-.name{
-  padding: 20px;
-  text-align: center;
-  background: #1abc9c;
-  color: white;
-  font-size: 15px;
-}
+
 
 .header{
   border: 2px solid white;
@@ -41,10 +35,7 @@ h1, ul, li {
  li a:hover {
   background-color: #111;
 }
-.search{
-  margin-top: 10%;
-  border: 2px solid white;
-}
+
 .sider{
   margin-left: 70%;
 }
@@ -56,11 +47,21 @@ h1, ul, li {
   align-items: center;
 
   .bookArticle {
-    height: 300px;
-    width: 300px;
+    height: 250px;
+    width: 250px;
     border: 1px solid black;
     margin: 10px;
     padding: 10px;
-    border-radius: 5px;
+    border-radius: 10px;
+    background-color: saddlebrown;
   }
+  
+}
+
+.bookWrapper :hover {
+  background-color: rgb(146, 52, 52);
+}
+
+.ss{
+  background-color: white;
 }

@@ -1,0 +1,42 @@
+
+ ul, li {
+    font-family: sans-serif;
+  }
+  
+  
+   ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+   li {
+    float: left;
+  }
+  
+   li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+   li a:hover {
+    background-color: #111;
+  }
+  
+
+.search{
+    margin-top: 10%;
+    border: 2px solid white;
+  }
+  .prod{
+    margin-left: 34%;
+  }
+  .blog{
+    margin-left: 34%;
+  }

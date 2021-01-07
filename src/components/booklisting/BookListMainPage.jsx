@@ -4,7 +4,10 @@ import { NavLink } from 'react-router-dom';
 import { useSelector, useDispatch } from 'react-redux';
 import ListStyles from './BookListMainPage.scss';
 import Header from '../header/Header';
+import Footer from '../footer/Footer';
 import { getBooks } from '../../actions/BooksAction';
+import SearchBar from '../search/SearchBar';
+import SellBook from '../sellbook/SellBook';
 
 const BookList = () => {
   const dispatch = useDispatch();
@@ -40,15 +43,17 @@ const BookList = () => {
           </div>
         </ul>
       </div>
+      <div>
+        <ul className={ListStyles.ss}>
+       <li> <SearchBar/> </li> 
+       <li>  <SellBook/> </li> 
+         </ul>
+     </div>
       <div className={ListStyles.bookWrapper}>
         {booksJSX}
       </div>
       <div>
-        <ul className={ListStyles.search}>
-          <li><NavLink to="/shop Sale">Shop Sale</NavLink></li>
-          <li><NavLink to="/Latest product">Latest Product</NavLink></li>
-          <li><NavLink to="/blog">Read the Blog</NavLink></li>
-        </ul>
+      <Footer/>
       </div>
     </div>
   );
