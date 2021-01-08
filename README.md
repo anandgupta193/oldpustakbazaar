@@ -7,7 +7,7 @@
 
 ![Banner](https://user-images.githubusercontent.com/24511864/87848141-f8d04780-c8fa-11ea-8dae-3dde9fe6a68d.png)
 
-# React Enterprise Starter Kit :fire:
+# Old Pustak Bazaar :fire:
 
 Highly Scalable, performant and amazing react boilerplate for react developers to get started and improve web building capabilities. This react boilerplate is called enterprise starter kit because it is highly scalable and performant, web developers or industries can directly use this starter kit and create multiple projects.
 
