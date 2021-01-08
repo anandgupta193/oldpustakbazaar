@@ -1,5 +1,6 @@
 /* eslint-disable no-console */
 import React, { useEffect } from 'react';
+import { Button } from '@material-ui/core';
 import { NavLink } from 'react-router-dom';
 import { useSelector, useDispatch } from 'react-redux';
 import ListStyles from './BookListMainPage.scss';
@@ -15,9 +16,19 @@ const BookList = () => {
 
   const getBooksJSX = (bookList) => {
     console.log(books);
-    return bookList.BookDetails.map((element) => {
+    return bookList.BookDetails.map((element, index) => {
       console.log(element);
-      return (<section className={ListStyles.bookArticle} key={element.Name}>{element.Name}</section>);
+      return (
+        <div>
+          <section className={ListStyles.bookArticle} key={element.Name}>
+            <img alt={element.Name} className={ListStyles.bookImage} src={element[`image${index + 1}`]} />
+            <section className={ListStyles.actionButtons}>
+              <Button variant="outlined" color="secondary">Wishlist</Button>
+              <Button variant="outlined" color="primary">Add to Cart</Button>
+            </section>
+          </section>
+        </div>
+      );
     });
   };
 
@@ -45,15 +56,15 @@ const BookList = () => {
       </div>
       <div>
         <ul className={ListStyles.ss}>
-       <li> <SearchBar/> </li> 
-       <li>  <SellBook/> </li> 
-         </ul>
-     </div>
+          <li><SearchBar /></li>
+          <li><SellBook /></li>
+        </ul>
+      </div>
       <div className={ListStyles.bookWrapper}>
         {booksJSX}
       </div>
       <div>
-      <Footer/>
+        <Footer />
       </div>
     </div>
   );
