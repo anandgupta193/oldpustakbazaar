@@ -1,14 +1,16 @@
+/* eslint-disable linebreak-style */
 /* eslint-disable no-console */
 import React, { useEffect } from 'react';
 import { Button } from '@material-ui/core';
-import { NavLink } from 'react-router-dom';
 import { useSelector, useDispatch } from 'react-redux';
+import AddShoppingCartIcon from '@material-ui/icons/AddShoppingCart';
+import IconButton from '@material-ui/core/IconButton';
 import ListStyles from './BookListMainPage.scss';
 import Header from '../header/Header';
 import Footer from '../footer/Footer';
 import { getBooks } from '../../actions/BooksAction';
 import SearchBar from '../search/SearchBar';
-import SellBook from '../sellbook/SellBook';
+import UploadButtons from '../sellbook/SellBook';
 
 const BookList = () => {
   const dispatch = useDispatch();
@@ -43,21 +45,50 @@ const BookList = () => {
       <Header />
       <div>
         <ul className={ListStyles.header}>
-          <li><NavLink to="/home">Home</NavLink></li>
-          <li><NavLink to="/about us">About Us</NavLink></li>
-          <li><NavLink to="/terms and conditions">Terms & Conditions</NavLink></li>
-          <li><NavLink to="/contact us">Contact us</NavLink></li>
+          <li>
+            <Button variant="contained" color="secondary" href="#contained-buttons">
+              Home
+            </Button>
+          </li>
+          <li>
+            <Button variant="contained" color="secondary" href="#contained-buttons">
+              About Us
+            </Button>
+          </li>
+          <li>
+            <Button variant="contained" color="secondary" href="#contained-buttons">
+              Terms & Conditions
+            </Button>
+          </li>
+          <li>
+            <Button variant="contained" color="secondary" href="#contained-buttons">
+              Contact Us
+            </Button>
+          </li>
           <div className={ListStyles.sider}>
-            <li><NavLink to="/wishlist">Wishlist</NavLink></li>
-            <li><NavLink to="/shopping cart">Shopping cart</NavLink></li>
-            <li><NavLink to="/my account">My Account</NavLink></li>
+            <li>
+              <Button variant="contained" color="primary" href="#contained-buttons">
+                Login
+              </Button>
+            </li>
+            <li>
+              <Button variant="contained" color="primary" href="#contained-buttons">
+                WishList
+              </Button>
+            </li>
+            <li>
+              <IconButton color="primary" aria-label="add to shopping cart">
+                Cart
+                <AddShoppingCartIcon />
+              </IconButton>
+            </li>
           </div>
         </ul>
       </div>
       <div>
         <ul className={ListStyles.ss}>
           <li><SearchBar /></li>
-          <li><SellBook /></li>
+          <li><UploadButtons /></li>
         </ul>
       </div>
       <div className={ListStyles.bookWrapper}>

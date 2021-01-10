@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import React from 'react';
 import { useDispatch } from 'react-redux';
 import SearchStyles from './SearchBar.scss';
@@ -8,7 +9,6 @@ const SearchBar = () => {
   const onBooksFilter = (e) => {
     dispatch(applyFilter(e.target.value));
   };
-
   return (
     <input
       className={SearchStyles.bar}
