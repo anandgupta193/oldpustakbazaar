@@ -4,41 +4,27 @@ import React, { useEffect } from 'react';
 import { Button } from '@material-ui/core';
 import { Link } from 'react-router-dom';
 import { useSelector, useDispatch } from 'react-redux';
-import ListStyles from './BookListMainPage.scss';
+import WishListStyles from './WishList.scss';
 import Header from '../header/Header';
 import Footer from '../footer/Footer';
-import { getBooks, addToWishList } from '../../actions/BooksAction';
+import { getBooks } from '../../actions/BooksAction';
 import SearchBar from '../search/SearchBar';
 // import UploadButtons from '../sellbook/SellBook';
 
-const BookList = () => {
+const WishList = () => {
   const dispatch = useDispatch();
-  const books = useSelector((state) => state.books);
-
-  const onAddToWishListClick = (e) => {
-    const { name } = e.currentTarget.dataset;
-    dispatch(addToWishList(name));
-  };
+  const wishList = useSelector((state) => state.wishList);
 
   const getBooksJSX = (bookList) => {
-    console.log(books);
+    console.log(bookList);
     return bookList.BookDetails.map((element) => {
       console.log(element);
       return (
         <div key={element.Name}>
-          <section className={ListStyles.bookArticle}>
-            <img alt={element.Name} className={ListStyles.bookImage} src={element.image} />
-            <section className={ListStyles.actionButtons}>
-              <Button onClick={onAddToWishListClick} data-name={element.Name} variant="outlined" color="secondary">Wishlist</Button>
+          <section className={WishListStyles.bookArticle}>
+            <img alt={element.Name} className={WishListStyles.bookImage} src={element.image} />
+            <section className={WishListStyles.actionButtons}>
               <Button variant="outlined" color="primary">Add to Cart</Button>
-            </section>
-            <section className={ListStyles.attributes}>
-              <section className={ListStyles.attributesName}>
-                {`Name ${element.Name}`}
-              </section>
-              <section className={ListStyles.attributesName}>
-                {`Rs ${element.Price} /-`}
-              </section>
             </section>
           </section>
         </div>
@@ -46,7 +32,7 @@ const BookList = () => {
     });
   };
 
-  const booksJSX = getBooksJSX(books);
+  const booksJSX = getBooksJSX(wishList);
 
   useEffect(() => {
     console.log('component mounted');
@@ -54,10 +40,10 @@ const BookList = () => {
   });
   return (
     <div>
-      <Header isWishList />
-      <div className={ListStyles.headerWrapper}>
-        <div className={ListStyles.nav}>
-          <ul className={ListStyles.header}>
+      <Header isWishList={false} />
+      <div className={WishListStyles.headerWrapper}>
+        <div className={WishListStyles.nav}>
+          <ul className={WishListStyles.header}>
             <li>
               <Link to="/">
                 <Button variant="contained" color="secondary">
@@ -73,12 +59,12 @@ const BookList = () => {
               </Link>
             </li>
             <li>
-              <Button variant="contained" color="secondary" href="#contained-buttons">
+              <Button variant="contained" color="secondary">
                 Terms & Conditions
               </Button>
             </li>
             <li>
-              <Button variant="contained" color="secondary" href="#contained-buttons">
+              <Button variant="contained" color="secondary">
                 Contact Us
               </Button>
             </li>
@@ -86,12 +72,12 @@ const BookList = () => {
         </div>
       </div>
       <div>
-        <ul className={ListStyles.actionBar}>
+        <ul className={WishListStyles.actionBar}>
           <li><SearchBar /></li>
           {/* <li><UploadButtons /></li> */}
         </ul>
       </div>
-      <div className={ListStyles.bookWrapper}>
+      <div className={WishListStyles.bookWrapper}>
         {booksJSX}
       </div>
       <div>
@@ -101,4 +87,4 @@ const BookList = () => {
   );
 };
 
-export default BookList;
+export default WishList;

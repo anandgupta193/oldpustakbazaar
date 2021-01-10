@@ -10,7 +10,7 @@
     "Number of Pages" : "600",
     "Price" : 250,
     "Publication Year" : "2020 July",
-    "image1" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/indian-economy-for-civil-services-and-other-competitive-original-imafty6vkgugb9yd.jpeg?alt=media&token=89ba3d2f-3251-4ade-839f-02334390e0fb"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/indian-economy-for-civil-services-and-other-competitive-original-imafty6vkgugb9yd.jpeg?alt=media&token=89ba3d2f-3251-4ade-839f-02334390e0fb"
   }, {
     "Author" : "Rattan S.S.",
     "Description" : "This will help you to crack the Engineering Exam as well as Competetive Exam ",
@@ -22,7 +22,7 @@
     "Number of Pages" : "888",
     "Price" : 275,
     "Publication Year" : "2019 July",
-    "image2" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/theory-of-machines-original-imafg9y6gzxjd7x2.jpeg?alt=media&token=78f5c307-e3dd-4ffe-af21-dca0b66ea19b"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/theory-of-machines-original-imafg9y6gzxjd7x2.jpeg?alt=media&token=78f5c307-e3dd-4ffe-af21-dca0b66ea19b"
   }, {
     "Author" : "Balagurusamy E.",
     "Description" : "This bookdiscusses the fundamentals of the various hardware and software components of computers.",
@@ -32,7 +32,7 @@
     "Name" : "Fundamentals of Computers s",
     "Number of Pages" : "758",
     "Price" : 225,
-    "image3" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/fundamentals-of-computers-original-imafbea5yeckkyp8.jpeg?alt=media&token=b93bf3a8-654b-4d1c-96e7-e9f41b7fba25"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/fundamentals-of-computers-original-imafbea5yeckkyp8.jpeg?alt=media&token=b93bf3a8-654b-4d1c-96e7-e9f41b7fba25"
   }, {
     "Author" : "Jalote Pankaj",
     "Description" : "Software Engineering is finally about application of concepts to efficiently engineer good software solutions. This book focuses on imparting to students the knowledge and skills that are needed to successfully execute a commercial project of a few person-months effort while employing proper practices and techniques. A vast majority of the projects executed in the industry today fall in this scope. The goal of this book is to introduce to the students a limited number of concepts and practices which will achieve the following two objectives: ?Teach the student the skills needed to execute a smallish commercial project. ?Provide the students necessary conceptual background for undertaking advanced studies in software engineering, through organized courses or on their own. This book focuses on key tasks in two dimensions - engineering and project management - and discusses concepts and techniques that can be applied to effectively execute these tasks. The book is organized in a simple manner, with one chapter for each of the key tasks in a project. For engineering, these tasks are requirements analysis and specification, architecture design, module level design, coding and unit testing, and testing. For project management, the key tasks are project planning and project monitoring and control, but both are discussed together in one chapter on project planning as even monitoring has to be planned. In addition, one chapter clearly defines the problem domain of Software Engineering, and another Chapter discusses the central concept of software process which integrates the different tasks executed in a project. Each chapter opens with some introduction and clearly lists the chapter goals, or what the reader can expect to learn from the chapter. For the task covered in the chapter, the important concepts are first discussed, followed by a discussion of the output of the task, the desired quality properties of the output, and some practical methods and notations for performing the task. The explanations are supported by examples, and the key learnings are summarized in the end for the reader. The chapter ends with some self-assessment exercises. Finally, the book contains a question bank at the end which lists out questions with answers from major universities.",
@@ -42,7 +42,7 @@
     "Name" : "Pankaj Jalote's Software Engineering: A Precise Approach",
     "Number of Pages" : "314",
     "Price" : 175,
-    "image4" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/software-engineering-original-imadd6q2szh2r7js.jpeg?alt=media&token=51a53cb2-869f-4c15-82d8-9c360489e3d8"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/software-engineering-original-imadd6q2szh2r7js.jpeg?alt=media&token=51a53cb2-869f-4c15-82d8-9c360489e3d8"
   }, {
     "Author" : "Isabel Allende",
     "Description" : "A swashbuckling adventure story that reveals for the first time how Diego de la Vega became Zorro, the masked man we all know so well.",
@@ -53,7 +53,7 @@
     "Number of Pages" : "390",
     "Price" : 200,
     "Publication Ysear" : "May 2005",
-    "image5" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/9780060779009.jpg?alt=media&token=3095f464-b255-4ce7-a3db-25b4a64a71be"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/9780060779009.jpg?alt=media&token=3095f464-b255-4ce7-a3db-25b4a64a71be"
   }, {
     "Author" : "Rosenfielde",
     "Description" : "A swashbuckling adventure story that reveals for the first time how Diego de la Vega became Zorro, the masked man we all know so well.",
@@ -64,7 +64,7 @@
     "Number of Pages" : "568",
     "Price" : 2200,
     "Publication Ysear" : "January 2009",
-    "image6" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/Optometry-Science-Techniques-and-Clinical-Management-2e-(Hard-Back)-IE_107577.jpg?alt=media&token=ecb0e332-cde4-4fff-a2a9-d4e322b3dd78"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/Optometry-Science-Techniques-and-Clinical-Management-2e-(Hard-Back)-IE_107577.jpg?alt=media&token=ecb0e332-cde4-4fff-a2a9-d4e322b3dd78"
   }, {
     "Author" : "Seema Saini, K.S. Saini",
     "Description" : "Chemistry for JEE Main, 2e, a Cengage Exam Crack Series®​ title, has been designed in keeping with the needs and expectations of students appearing for JEE Main. Its coherent presentation and compatibility with the latest prescribed syllabus and pattern of JEE will prove extremely useful to JEE aspirants.",
@@ -76,7 +76,7 @@
     "Number of Pages" : "1358",
     "Price" : 450,
     "Publication Ysear" : "January 2020",
-    "image7" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/Chemistry-for-JEE-Main_187374.jpg?alt=media&token=89ec0189-9b51-4b7d-a6a5-c2f86a42f655"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/Chemistry-for-JEE-Main_187374.jpg?alt=media&token=89ec0189-9b51-4b7d-a6a5-c2f86a42f655"
   }, {
     "Author" : "hc verma",
     "Description" : "learn base of physics",
@@ -86,7 +86,7 @@
     "Name" : "Concepts Of Physics Vol-1",
     "Number of Pages" : "462",
     "Price" : 360,
-    "image8" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/concepts-of-physics-vol-1-original-imafh72muqwzz84m.jpeg?alt=media&token=e5a503b6-0f80-42a2-aaaf-f889fd960f3e"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/concepts-of-physics-vol-1-original-imafh72muqwzz84m.jpeg?alt=media&token=e5a503b6-0f80-42a2-aaaf-f889fd960f3e"
   }, {
     "Author" : "hc verma",
     "Description" : "learn base of physics",
@@ -96,7 +96,7 @@
     "Name" : "Concepts Of Physics Vol-2",
     "Number of Pages" : "450",
     "Price" : 399,
-    "image9" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/cocepts-of-physics-vol-2-original-imaecuzzece8jtmw.jpeg?alt=media&token=dd15a659-c01f-4af3-9bdc-644739e83c2d"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/cocepts-of-physics-vol-2-original-imaecuzzece8jtmw.jpeg?alt=media&token=dd15a659-c01f-4af3-9bdc-644739e83c2d"
   }, {
     "Author" : "DIGVIJAY SINGH, PRITI GUPTA, SUDHAKAR BENERJI",
     "Description" : "Solved Papers are one of the traditional ingredients of study materials to get a clear guidance to studying and to finding possibilities of questions coming in the examination. If you are preparing for the toughest competition like JEE Main and NEET, understanding the whole exam pattern by using a good collection of Previous Years' Solved Papers will play as big a role as hard work. Chapterwise Topicwise Solved Papers Physics for medical entrances is a master collection of Exams Questions to practice for NEET 2019. It has been revised carefully to deliver the value of Solved Papers to aspirants. It contains exams questions of the last 14 years from 2018-2005 in both chapterwise and topicwise manner to facilitate micro coverage of the syllabus. It is divided into two parts containing different units of chapters based on NCERT Physics of both class XI and XII. Complete coverage of questions asked in NEET, CBSE-AIPMT, AIIMS, JIPMER, and BVP, Manipal, UPCPMT etc., have also been done to promote a one-stop solution for all medical entrances. Filled with adequate and accurate contents, propel your hunger to succeed with the help of our whole new edition of Chapterwise Topicwise Solved Papers.Solved Papers are one of the traditional ingredients of study materials to get a clear guidance to studying and to finding possibilities of questions coming in the examination. If you are preparing for the toughest competition like JEE Main and NEET, understanding the whole exam pattern by using a good collection of Previous Years' Solved Papers will play as big a role as hard work. Chapterwise Topicwise Solved Papers Physics for medical entrances is a master collection of Exams Questions to practice for NEET 2019. It has been revised carefully to deliver the value of Solved Papers to aspirants. It contains exams questions of the last 14 years from 2018-2005 in both chapterwise and topicwise manner to facilitate micro coverage of the syllabus. It is divided into two parts containing different units of chapters based on NCERT Physics of both class XI and XII. Complete coverage of questions asked in NEET, CBSE-AIPMT, AIIMS, JIPMER, and BVP, Manipal, UPCPMT etc., have also been done to promote a one-stop solution for all medical entrances. Filled with adequate and accurate contents, propel your hunger to succeed with the help of our whole new edition of Chapterwise Topicwise Solved Papers.",
@@ -106,7 +106,7 @@
     "Name" : "Arihant Chapterwise Topicwise Solved Papers ( Physics + Chemistry + Biology ) For Medical Entrances",
     "Number of Pages" : "2050",
     "Price" : 1999,
-    "image10" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/arihant-chapterwise-topicwise-solved-papers-physics-chemistry-original-imaf9xcajqpx8bvj.jpeg?alt=media&token=7ca9f9b0-24a7-460c-8659-b0b3188e44dd"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/arihant-chapterwise-topicwise-solved-papers-physics-chemistry-original-imaf9xcajqpx8bvj.jpeg?alt=media&token=7ca9f9b0-24a7-460c-8659-b0b3188e44dd"
   }, {
     "Author" : "Arihant expert",
     "Description" : "Solved Papers are one of the traditional ingredients of study materials to get a clear guidance to studying and to finding possibilities of questions coming in the examination. If you are preparing for the toughest competition like JEE Main and NEET, understanding the whole exam pattern by using a good collection of Previous Years' Solved Papers will play as big a role as hard work. Chapterwise Topicwise Solved Papers Physics for medical entrances is a master collection of Exams Questions to practice for NEET 2019. It has been revised carefully to deliver the value of Solved Papers to aspirants. It contains exams questions of the last 14 years from 2018-2005 in both chapterwise and topicwise manner to facilitate micro coverage of the syllabus. It is divided into two parts containing different units of chapters based on NCERT Physics of both class XI , have also been done to promote a one-stop solution for all medical entrances. Filled with adequate and accurate contents, propel your hunger to succeed with the help of our whole new edition of Chapterwise Topicwise Solved Papers.Solved Papers are one of the traditional ingredients of study materials to get a clear guidance to studying and to finding possibilities of questions coming in the examination. If you are preparing for the toughest competition like JEE Main and jee, understanding the whole exam pattern by using a good collection of Previous Years' Solved Papers will play as big a role as hard work. Chapterwise Topicwise Solved Papers Physics for engineering is a master collection of Exams Questions to practice for jee 2019. It has been revised carefully to deliver the value of Solved Papers to aspirants. It contains exams questions of the last 14 years from 2018-2005 in both chapterwise and topicwise manner to facilitate micro coverage of the syllabus. It is divided into two parts containing different units of chapters based on NCERT Physics of both class XI and XII. Complete coverage of questions asked in jee mains, vit, jee adv, bits, and upsee etc., have also been done to promote a one-stop solution for all engineering entrances. Filled with adequate and accurate contents, propel your hunger to succeed with the help of our whole new edition of Chapterwise Topicwise Solved Papers.",
@@ -116,7 +116,7 @@
     "Name" : "Arihant Chapterwise Topicwise Solved Papers ( Physics + Chemistry + maths ) For engineering Entrances",
     "Number of Pages" : "1734",
     "Price" : 799,
-    "image11" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/iit-jee-mathematics-chemistry-physics-39-years-chapterwise-original-imaf7yvwxrzteeev.jpeg?alt=media&token=74ef213f-7739-441c-8e55-73cdaf641eec"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/iit-jee-mathematics-chemistry-physics-39-years-chapterwise-original-imaf7yvwxrzteeev.jpeg?alt=media&token=74ef213f-7739-441c-8e55-73cdaf641eec"
   }, {
     "Author" : "simon aric j.",
     "Description" : "For non-majors/mixed biology courses. Helping students understand why biology matters Campbell Essential Biology with Physiology makes biology interesting and understandable for non-majors biology students. This best-selling textbook, known for its scientific accuracy, clear explanations, and intuitive illustrations, has been revised to further emphasize the relevance of biology to everyday life, using memorable analogies, real-world examples, conversational language, engaging new Why Biology Matters photo essays, and more. MasteringBiology not included. Students, if MasteringBiology is a recommended/mandatory component of the course, please ask your instructor for the correct ISBN and course ID. MasteringBiology should only be purchased when required by an instructor. Instructors, contact your Pearson representative for more information. MasteringBiology is an online homework, tutorial, and assessment product that improves results by helping students quickly master concepts. Students benefit from self-paced tutorials that feature immediate wrong-answer feedback and hints that emulate the office-hour experience to help keep students on track. With a wide range of interactive, engaging, and assignable activities, many of them contributed by Essential Biology authors, students are encouraged to actively learn and retain tough course concepts. New MasteringBiology activities for this edition include Essential Biology videos that help students efficiently review key topics outside of class, Evaluating Science in the Media activities that help students to build science literacy skills, and Scientific Thinking coaching activities that guide students in understanding the scientific method.",
@@ -126,7 +126,7 @@
     "Name" : "Campbell Essential Biology with Physiology, Global Edition  (English, Paperback, Simon Eric J.)",
     "Number of Pages" : "4646",
     "Price" : 752,
-    "image12" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/campbell-essential-biology-with-physiology-global-edition-original-imafbnwzrqnazkfk.jpeg?alt=media&token=535ed2d9-44b5-4d8e-a9fb-0e9d303fe576"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/campbell-essential-biology-with-physiology-global-edition-original-imafbnwzrqnazkfk.jpeg?alt=media&token=535ed2d9-44b5-4d8e-a9fb-0e9d303fe576"
   }, {
     "Author" : "B.M sharma",
     "Description" : "physics for jee advanced",
@@ -136,7 +136,7 @@
     "Name" : "Physics for Joint Entrance Examination Jee (Advanced) Mechanics I - Mechanics I  (English, Paperback, Sharma B. M.)",
     "Number of Pages" : "852",
     "Price" : 555,
-    "image13" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/theory-of-machines-original-imafg9y6gzxjd7x2.jpeg?alt=media&token=78f5c307-e3dd-4ffe-af21-dca0b66ea19b"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/theory-of-machines-original-imafg9y6gzxjd7x2.jpeg?alt=media&token=78f5c307-e3dd-4ffe-af21-dca0b66ea19b"
   }, {
     "Author" : "B.M sharma",
     "Description" : "physics for jee advanced",
@@ -146,7 +146,7 @@
     "Name" : "Physics for Joint Entrance Examination Jee (Advanced) electronics I - electronics I  (English, Paperback, Sharma B. M.)",
     "Number of Pages" : "750",
     "Price" : 500,
-    "image14" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/theory-of-machines-original-imafg9y6gzxjd7x2.jpeg?alt=media&token=78f5c307-e3dd-4ffe-af21-dca0b66ea19b"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/theory-of-machines-original-imafg9y6gzxjd7x2.jpeg?alt=media&token=78f5c307-e3dd-4ffe-af21-dca0b66ea19b"
   }, {
     "Author" : "Bhatia k.n",
     "Description" : "biology for class 11th",
@@ -156,7 +156,7 @@
     "Name" : "Trueman's Elementary Biology, Vol. I for Xi & Neet  (English, Paperback, Bhatia K.N.)",
     "Number of Pages" : "1320",
     "Price" : 800,
-    "image15" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/elementary-biology-vol-i-for-class-xi-original-imafgd7rexcbyb9n.jpeg?alt=media&token=fed98012-9f07-46dd-8ef8-aa2912ecb148"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/elementary-biology-vol-i-for-class-xi-original-imafgd7rexcbyb9n.jpeg?alt=media&token=fed98012-9f07-46dd-8ef8-aa2912ecb148"
   }, {
     "Author" : "B.M. SHARMA",
     "Description" : "SUPLLEMENTED WITH",
@@ -166,7 +166,7 @@
     "Name" : "Cengage Physics Set Of 2 Books 2019 ( Electrostatics And Current Electricity, Magnetism And Electromagnetic Induction )",
     "Number of Pages" : "1000",
     "Price" : 940,
-    "image16" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/cengage-physics-set-of-2-books-2019-electrostatics-and-current-original-imafayzbmzf8duuh.jpeg?alt=media&token=e0824a44-08f9-4a75-8774-67096a251047"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/cengage-physics-set-of-2-books-2019-electrostatics-and-current-original-imafayzbmzf8duuh.jpeg?alt=media&token=e0824a44-08f9-4a75-8774-67096a251047"
   }, {
     "Author" : "D.c pandey and arihant experets",
     "Description" : "SUPLLEMENTED WITH",
@@ -176,7 +176,7 @@
     "Name" : "Understanding Physics (Mechanics Vol, 1 And 2 / Electricity And Magnetism / Optics And Mmodern Physics / Waves And Thermodynamics By Dc Pandey",
     "Number of Pages" : "1500",
     "Price" : 1595,
-    "image17" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/understanding-physics-mechanics-vol-1-and-2-electricity-and-original-imafffkqeyxpnqmg.jpeg?alt=media&token=c86d6107-1a4e-4b93-b021-2751d755464f"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/understanding-physics-mechanics-vol-1-and-2-electricity-and-original-imafffkqeyxpnqmg.jpeg?alt=media&token=c86d6107-1a4e-4b93-b021-2751d755464f"
   }, {
     "Author" : "Irodov I.e",
     "Description" : "The the ‘Classic Text Series’ is the only of its kind selection of classic pieces of work that started off as bestseller and continues to be the bestseller even today. These classic texts have been designed so as to work as elementary textbooks which play a crucial role in building the concepts from scratch as in-depth knowledge of concepts is necessary for students preparing for various entrance examinations.This book on Problems in General Physics containingabout 1900 problems with hints for solving the most complicated ones has been designed for students studying advanced course in Physics. The book has been divided into six parts covering Physical Fundamentals of Mechanics, Thermodynamics & Molecular Physics, Electrodynamics, Oscillations & Waves, Optics and Atomic & Nuclear Physics, each segregated into number of chapters. Each chapter in the book opens with a time-saving summary of the principal formulas for the relevant area of physics. As a rule the formulas are given without detailed explanation. Explanatory notes are given in those cases where misunderstandings may arise. The author has used all formulas in the SI system, except in Part six where the Gaussian system has been used. Also the main physical constants and tables are summarized at the end of the book along with the Periodic System of Elements and Table of Elementary Particles also covered in the book. At the beginning of each chapter summary of principal formulas has been given for clarifying relevant basic concepts. At the end of each chapter, unsolved practice exercises have been provided to help aspirants revise the concepts discussed in the chapter. Answers and Solutions to the practice exercises have been given at the end after Part six. After the answers & solutions, appendices have also been provided for better comprehension of the concepts discussed in the book.Hope this book on Problems in General Physics from the Classic Text Series will help the readers get in-depth insight intothe various problems in general physics.",
@@ -186,7 +186,7 @@
     "Name" : "Problems in General Physics  (English, Paperback, Irodov I.E.)",
     "Number of Pages" : "403",
     "Price" : 87,
-    "image18" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/problems-in-general-physics-original-imafspq6xygbg2he.jpeg?alt=media&token=019b0f6b-94ca-49b4-8a9f-2224c91f31fa"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/problems-in-general-physics-original-imafspq6xygbg2he.jpeg?alt=media&token=019b0f6b-94ca-49b4-8a9f-2224c91f31fa"
   }, {
     "Author" : "NCERT",
     "Description" : "Book Set Contains following Books: 1. NCERT Science for Class 6 2. NCERT Science for Class 7 3. NCERT Science for Class 8 4. NCERT Science for Class 9 5. NCERT Science for Class 10 6. NCERT Our Past for History for Class 6 7. NCERT Our Past II for History for Class 7 8. NCERT Our Past III part I for History for Class 8 9. NCERT Our Past III part II for History for Class 8 10. NCERT India & Contemporary World for History for Class 9 11. NCERT India & Contemporary World II for History for Class 10 12. NCERT Themes of World History for Class 11 13. NCERT Themes In Indian History Part I for Class 12 14. NCERT Themes In Indian History Part II for Class 12 15. NCERT Themes In Indian History Part III for Class 12 16. NCERT The Earth Our Habitat for Geography for Class 6 17. NCERT Our Environment for Geography for Class 7 18. NCERT Resources & Development for Geography for Class 8 19. NCERT Contemporary India for Geography for Class 9 20. NCERT Contemporary India for Geography for Class 10 21. Ncert Fundamentals of Physical Geography for Class 11 22. NCERT Fundamentals of Human Geography for Class 12 23. NCERT Economics for Class 9 24. NCERT Understanding Economic Development for class 10 25. NCERT Statistics for Economics for Class 11 26. NCERT Indian Economic Development for Class 11 27. NCERT Microeconomics for Class 12 28. NCERT Macroeconomic for Class 12 29. NCERT Social and political life for class 6th 30. NCERT Social and Political Life II for Class 7 31. NCERT Social & Political Life for Class 8 32. NCERT Democratic Politics for Class 9 33. NCERT Democratic Politics II Class 10 34. NCERT Political theory class 11th 35. NCERT Indian Constitution at Work for Class 11 36. NCERT Contemporary World Politics Class 12 37. NCERT Politics in India since Independence for Class 12 38. NCERT Sociology Part I for Class 11 39. NCERT Social Change & Development Class 12 40. NCERT Indian Society - Sociology for Class 12",
@@ -196,7 +196,7 @@
     "Name" : "NCERT Books Set For UPSC Exam (English Medium)  (Light Weight Plastic Durable Binding, NCERT)",
     "Number of Pages" : "1000",
     "Price" : 700,
-    "image19" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/ncert-books-set-for-upsc-exam-english-medium-original-imaff9tsgtbebhvq.jpeg?alt=media&token=a74d45b1-2593-436f-aa10-e02dc822f85c"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/ncert-books-set-for-upsc-exam-english-medium-original-imaff9tsgtbebhvq.jpeg?alt=media&token=a74d45b1-2593-436f-aa10-e02dc822f85c"
   }, {
     "Author" : "Mahesh Kumar Barnwal",
     "Description" : "BEST BOOK CONSIST NCERT SAR CLASS 6TH TO 12TH",
@@ -206,7 +206,7 @@
     "Name" : "NCERT SAR UPSC COMBO, NCERT SAR Bhartiya Arthvyavastha ,BHARAT KA BHUGOL,SANKSHIPT ITIHAS AND Bhartiya Sanvidhan Avum Rajvyavastha(4 BOOK IAS COMBO NCERT SAR) (CLASS 6TH TO 12TH NCERT SAR)Best Book For Civil Services, UPSC,IAS,IPS EXAM Hindi Medium Bihar Psc,psc Exam,use Ful For Ugc-Net (Mahesh Kumar Barnwal,hINDI,NCERT SAR)",
     "Number of Pages" : "1520",
     "Price" : 755,
-    "image20" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/ncert-sar-upsc-combo-ncert-sar-bhartiya-arthvyavastha-bharat-ka-original-imafdghghebsfjmq.jpeg?alt=media&token=1d43494d-a3e5-4cbc-84b6-1524e089e5fc"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/ncert-sar-upsc-combo-ncert-sar-bhartiya-arthvyavastha-bharat-ka-original-imafdghghebsfjmq.jpeg?alt=media&token=1d43494d-a3e5-4cbc-84b6-1524e089e5fc"
   }, {
     "Author" : "NCERT",
     "Description" : "BEST BOOK CONSIST 11TH physics,chemistry, biology",
@@ -216,7 +216,7 @@
     "Name" : "NCERT Science (PCB) Complete Books Set For Class -11 (English Medium) [Hardcover] NCERT Unknown Binding – 1 January 2019  (Hardcover, NCERT)",
     "Number of Pages" : "800",
     "Price" : 740,
-    "image21" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/ncert-science-pcb-complete-books-set-for-class-11-english-medium-original-imaftk94ahzndpst.jpeg?alt=media&token=c309492a-8339-411e-9fcd-e8db23dabbaa"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/ncert-science-pcb-complete-books-set-for-class-11-english-medium-original-imaftk94ahzndpst.jpeg?alt=media&token=c309492a-8339-411e-9fcd-e8db23dabbaa"
   }, {
     "Author" : "Disha experts",
     "Description" : "The book provides Step-by-step Chapter-wise Solutions to the 3 Most Important requirements of the students - NCERT Book + Exemplar Book + Past 10 Years Solutions for CBSE Class 12. The 5th Edition of the book is divided into 3 sections. • Section 1 - NCERT Exercise - consists of solutions to all Intext and chapter exercises. • Section 2 - Past Year Questions of Past 10 years with Solutions. • Section 3 - Exemplar Problems - Solutions to select NCERT Exemplar problems.",
@@ -226,7 +226,7 @@
     "Name" : "Chapter-wise NCERT + Exemplar + Past 11 Years Solutions for CBSE Class 12 PCM 5th Edition  (English, Paperback, Disha Experts)",
     "Number of Pages" : "1628",
     "Price" : 977,
-    "image22" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/chapter-wise-ncert-exemplar-past-11-years-solutions-for-cbse-original-imaf5yh8fdjrbf5e.jpeg?alt=media&token=44050d53-13a1-4a6d-ba8e-c961fe312792"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/chapter-wise-ncert-exemplar-past-11-years-solutions-for-cbse-original-imaf5yh8fdjrbf5e.jpeg?alt=media&token=44050d53-13a1-4a6d-ba8e-c961fe312792"
   }, {
     "Author" : "NCERT",
     "Description" : "Book Set Contains 1 unit of each of the following Books: 1. NCERT Mathematics for Class 11 2. NCERT Chemistry Part I for Class 11 3. NCERT Chemistry Part II for Class 11 4. NCERT Physics Part I for Class 11 5. NCERT Physics Part II for Class 11",
@@ -236,7 +236,7 @@
     "Name" : "NCERT Physics, Chemistry, Mathematics (PCM) Books Set For Class 11 (English Medium)  (Paperback binding, NCERT)",
     "Number of Pages" : "3076",
     "Price" : 880,
-    "image23" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/ncert-science-pcb-complete-books-set-for-class-11-english-medium-original-imaftk94ahzndpst.jpeg?alt=media&token=37d468ac-024a-475e-a0e5-f214e6b1ed7b"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/ncert-science-pcb-complete-books-set-for-class-11-english-medium-original-imaftk94ahzndpst.jpeg?alt=media&token=37d468ac-024a-475e-a0e5-f214e6b1ed7b"
   }, {
     "Author" : "NCERT",
     "Description" : "This book set contains 1 : 1. NCERT Mathematics for Class 11 2. NCERT Business Studies for Class 11 3. NCERT Accounts Part I for Class 11 4. NCERT Accounts Part II for Class 11",
@@ -246,7 +246,7 @@
     "Name" : "NCERT Commerce Books Set For Class -11 (English Medium)",
     "Number of Pages" : "800",
     "Price" : 605,
-    "image24" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/ncert-commerce-books-set-for-class-11-english-medium-original-imafks7effgvyygg.jpeg?alt=media&token=15316ab4-16ef-46e6-86ba-23a0e981bd26"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/ncert-commerce-books-set-for-class-11-english-medium-original-imafks7effgvyygg.jpeg?alt=media&token=15316ab4-16ef-46e6-86ba-23a0e981bd26"
   }, {
     "Author" : "Pant Subodhchandra",
     "Description" : "a story",
@@ -256,7 +256,7 @@
     "Name" : "Abhijnanashakuntalam - Kalidasa Virchit  (Sanskrit, Paperback, Pant Subodhchandra)",
     "Number of Pages" : "360",
     "Price" : 150,
-    "image25" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/abhijnanashakuntalam-kalidasa-virchit-original-imafbz8jyrdqfqxp.jpeg?alt=media&token=2270a768-7100-47f5-90fc-3fc67dd69cfd"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/abhijnanashakuntalam-kalidasa-virchit-original-imafbz8jyrdqfqxp.jpeg?alt=media&token=2270a768-7100-47f5-90fc-3fc67dd69cfd"
   }, {
     "Author" : "Pandey Janardan Shastri",
     "Description" : "a story",
@@ -266,7 +266,7 @@
     "Name" : "Kiratarjuniyam of Kavibhar (Pratham Sarga)  (Sanskrit, Paperback, Pandey Janardan Shastri)",
     "Number of Pages" : "300",
     "Price" : 100,
-    "image26" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/kiratarjuniyam-of-kavibhar-pratham-sarga-original-imafbyhgfnkgy4pd.jpeg?alt=media&token=d4e75c8d-95b1-4d46-a553-8c28af50ce04"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/kiratarjuniyam-of-kavibhar-pratham-sarga-original-imafbyhgfnkgy4pd.jpeg?alt=media&token=d4e75c8d-95b1-4d46-a553-8c28af50ce04"
   }, {
     "Author" : "Jha Ratinath",
     "Description" : "a story",
@@ -276,7 +276,7 @@
     "Name" : "Kadambari of Bhanabhatta  (Sanskrit, Paperback, Jha Ratinath)",
     "Number of Pages" : "345",
     "Price" : 125,
-    "image27" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/kadambari-of-bhanabhatta-original-imafbydcjkbmhv2z.jpeg?alt=media&token=1a36ae21-5013-4d6c-956d-155f427bd57c"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/kadambari-of-bhanabhatta-original-imafbydcjkbmhv2z.jpeg?alt=media&token=1a36ae21-5013-4d6c-956d-155f427bd57c"
   }, {
     "Author" : "MOHD. WASEEM QASMI, MASOOM RAZA (RAHUL)",
     "Description" : "CTET AND TET URDU BHASHA KA SHIKSHAK",
@@ -286,7 +286,7 @@
     "Name" : "Ctet And Tet Urdu Bhasha Ka Shikshak For Paper I & II (Urdu Teacher Book For Ctet,uptet, Utet, Htet Rtet Ptet Mptet Chtet Btet Jtet)",
     "Number of Pages" : "248",
     "Price" : 119,
-    "image28" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/ctet-and-tet-urdu-bhasha-ka-shikshak-for-paper-i-ii-urdu-teacher-original-imafh3rf73k7zneu.jpeg?alt=media&token=ca355bcf-cd66-4542-8024-1307e7930b74"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/ctet-and-tet-urdu-bhasha-ka-shikshak-for-paper-i-ii-urdu-teacher-original-imafh3rf73k7zneu.jpeg?alt=media&token=ca355bcf-cd66-4542-8024-1307e7930b74"
   }, {
     "Author" : "AGARWAL V. K",
     "Description" : "zoology",
@@ -296,7 +296,7 @@
     "Name" : "Zoology For Degree Students B.Sc  (English, Paperback, AGARWAL V. K .)",
     "Number of Pages" : "600",
     "Price" : 400,
-    "image29" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/zoology-for-degree-students-b-sc-hons-semester-ii-original-imafas4f5aecaan2.jpeg?alt=media&token=099f9320-5ed9-4121-8877-53670a3bac02"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/zoology-for-degree-students-b-sc-hons-semester-ii-original-imafas4f5aecaan2.jpeg?alt=media&token=099f9320-5ed9-4121-8877-53670a3bac02"
   }, {
     "Author" : "Sanjeev Kumar,Renu Sinha,Rani Ahilya,R. P. Suman,Sunil Kumar Singh,Sanjiv Kumar",
     "Description" : "general knowledge",
@@ -306,7 +306,7 @@
     "Name" : "Lucent Objective General Knowledge  (Paperback, Sanjeev Kumar, Renu Sinha, Rani Ahilya, R. P. Suman, Sunil Kumar Singh, Sanjiv Kumar)",
     "Number of Pages" : "845",
     "Price" : 505,
-    "image30" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/lucent-objective-general-knowledge-original-imaf3xm3kyhpvvz6.jpeg?alt=media&token=bcd5ae4d-f5b2-4f8f-94cf-6feba251faa7"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/lucent-objective-general-knowledge-original-imaf3xm3kyhpvvz6.jpeg?alt=media&token=bcd5ae4d-f5b2-4f8f-94cf-6feba251faa7"
   }, {
     "Author" : "Spiegel Murray",
     "Description" : "Vector Analysis - Schaum's Outline is a comprehensive book for undergraduate students of engineering. The book comprises chapters on vectors and scalars, the dot and cross products, vector differentiation, gradient, divergence and curl, vector integration, and curvilinear coordinates. In addition, the book consists of fully solved problems, review of all important topics and theories, concepts and definitions for the students to understand the concepts better. This book is essential for engineering students preparing for competitive exams like GATE.About McGraw Hill Education McGraw Hill Education is an Indian academic publishing company involved in releasing expertly authored books for students studying in India. McGraw Hill books present material which goes beyond traditional books and offer students an edge so that they can excel in their educational endeavors. The company has also released books like NTSE Practice Papers Class-X and Study Package for NTSE Class VIII",
@@ -316,7 +316,7 @@
     "Name" : "Vector Analysis  (English, Paperback, Spiegel Murray)",
     "Number of Pages" : "900",
     "Price" : 650,
-    "image31" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/vector-analysis-original-imafe4d9t7xgcryh.jpeg?alt=media&token=e94eee35-5eb7-4651-a67f-3143b9362999"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/vector-analysis-original-imafe4d9t7xgcryh.jpeg?alt=media&token=e94eee35-5eb7-4651-a67f-3143b9362999"
   }, {
     "Author" : "Taiz Lincoln",
     "Description" : "The fourth edition of this established text returns better than ever to provide plant science students with a fresh, colourful textbook, suitable for a variety of academic levels. New contributing authors, updates on the latest research, along with a brand new chapter on Brassinosteroids and sharper artwork keep this textbook fresh and up-to-date, making it the ideal choice for a range of Botany and Plant Science students.",
@@ -326,7 +326,7 @@
     "Name" : "Plant Physiology  (English, Hardcover, Taiz Lincoln)",
     "Number of Pages" : "1200",
     "Price" : 750,
-    "image32" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/plant-physiology-original-imafbdzzbqt3fhyt.jpeg?alt=media&token=e3679858-8796-4b25-8a5e-b3910ad7f1b9"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/plant-physiology-original-imafbdzzbqt3fhyt.jpeg?alt=media&token=e3679858-8796-4b25-8a5e-b3910ad7f1b9"
   }, {
     "Author" : "Kanetkar Yashavant",
     "Description" : "learn basic knowledge about c programming",
@@ -336,7 +336,7 @@
     "Name" : "Let Us C Solutions: Authenticate Solutions of Let US C Exercise  (English, Paperback, Kanetkar Yashavant)",
     "Number of Pages" : "755",
     "Price" : 328,
-    "image33" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/let-us-c-authentic-guide-to-c-programming-language-17th-original-imafvnccmpde72fa.jpeg?alt=media&token=e7883126-9818-4b90-8cbd-27febb1819b5"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/let-us-c-authentic-guide-to-c-programming-language-17th-original-imafvnccmpde72fa.jpeg?alt=media&token=e7883126-9818-4b90-8cbd-27febb1819b5"
   }, {
     "Author" : "Goel Anita",
     "Description" : "Computer Fundamentals is specifically designed to be used at the beginner level. It covers all the basic hardware/software concepts in Computers and its peripherals in a very lucid manner.",
@@ -346,7 +346,7 @@
     "Name" : "Computer Fundamentals  (English, Paperback, Goel Anita)",
     "Number of Pages" : "500",
     "Price" : 300,
-    "image34" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/computer-fundamentals-original-imadbn6nhhwuhyc9.jpeg?alt=media&token=f4ea60a8-8113-410f-ad68-f129ca0107f2"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/computer-fundamentals-original-imadbn6nhhwuhyc9.jpeg?alt=media&token=f4ea60a8-8113-410f-ad68-f129ca0107f2"
   }, {
     "Author" : "Dr. Kuldeep Kumar, Dr. Rajesh Kumar, Dr. Deepak Raj, Dr. L.S Reen",
     "Description" : "learb basic maths",
@@ -356,7 +356,7 @@
     "Name" : "ENGINEERING MATHEMATICS-I (CALCULAS AND LINEAR ALGEBRA)-Aicte-FOR B.TECH STUDENTS  (pperback, Dr. Kuldeep Kumar, Dr. Rajesh Kumar, Dr. Deepak Raj, Dr. L.S Reen)",
     "Number of Pages" : "500",
     "Price" : 350,
-    "image35" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/engineering-mathematics-i-calculas-and-linear-algebra-aicte-for-original-imafm2w3tkdur3mg.jpeg?alt=media&token=ce0a0567-bb76-44ea-adaf-fe74674be0c4"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/engineering-mathematics-i-calculas-and-linear-algebra-aicte-for-original-imafm2w3tkdur3mg.jpeg?alt=media&token=ce0a0567-bb76-44ea-adaf-fe74674be0c4"
   }, {
     "Author" : "Khatri Devaki Nandan",
     "Description" : "a novel",
@@ -366,7 +366,7 @@
     "Name" : "Chandrakanta Santati  (Hindi, Book, Khatri Devaki Nandan)",
     "Number of Pages" : "800",
     "Price" : 256,
-    "image36" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/chandrakanta-santati-original-imafhb9q4s9mxhng.jpeg?alt=media&token=cf0f3e7f-fed3-4d83-96f2-363f47960c39"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/chandrakanta-santati-original-imafhb9q4s9mxhng.jpeg?alt=media&token=cf0f3e7f-fed3-4d83-96f2-363f47960c39"
   }, {
     "Author" : "Babu Devkinandan Khatri",
     "Description" : "Original Detective Novel of Devkinandan Khatri based on Tillesm aur Ayyari.",
@@ -376,7 +376,7 @@
     "Name" : "Bhootnath (Famous Novel) (भूतनाथ प्रसिद्ध उपन्यास)  (Hindi, Hardcover, Babu Devkinandan Khatri)",
     "Number of Pages" : "800",
     "Price" : 256,
-    "image37" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/bhootnath-famous-novel-original-imafgk77sdcbhf5v.jpeg?alt=media&token=0793b5a3-242f-431a-bea9-27bd31f9d432"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/bhootnath-famous-novel-original-imafgk77sdcbhf5v.jpeg?alt=media&token=0793b5a3-242f-431a-bea9-27bd31f9d432"
   }, {
     "Author" : "Xavier Pinto",
     "Description" : "a novel",
@@ -386,7 +386,7 @@
     "Name" : "Shakespeare's The Merchant Of Venice (Text With Paraphrase)",
     "Number of Pages" : "230",
     "Price" : 160,
-    "image38" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/shakespeare-s-the-merchant-of-venice-text-with-paraphrase-original-imaf9grqtnrdzhfs.jpeg?alt=media&token=ba142a1f-ea3e-4c32-9f79-2e662be93ada"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/shakespeare-s-the-merchant-of-venice-text-with-paraphrase-original-imaf9grqtnrdzhfs.jpeg?alt=media&token=ba142a1f-ea3e-4c32-9f79-2e662be93ada"
   }, {
     "Author" : "Vishnusharma",
     "Description" : "sort stories for your kids",
@@ -396,7 +396,7 @@
     "Name" : "Sampoorna Panchatantra (Hindi)  (Paperback, Vishnusharma)",
     "Number of Pages" : "376",
     "Price" : 166,
-    "image39" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/panchatantra-hind-illustrated-original-imaf4wxdnubs7phj.jpeg?alt=media&token=ac555cae-e8d1-4b1f-97ac-177d82e949ce"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/panchatantra-hind-illustrated-original-imaf4wxdnubs7phj.jpeg?alt=media&token=ac555cae-e8d1-4b1f-97ac-177d82e949ce"
   }, {
     "Author" : "Premchand",
     "Description" : "A deft portrayal of the country and the society during the colonial rule, Munshi Premchand’s Rangbhoomi is a realistic tale exploring the various colours of life. While at one end, we delve into the materialistic and illusionary world riddled with the misuse of authority and the greed for money and fame, on the other end we are touched by the scenes of compassion, forgiveness, and love. A Novel highlighting social issues, which were not just prevalent in those times but are as much present in today’s society, Rangbhoomi remains a contemporary read.",
@@ -406,7 +406,7 @@
     "Name" : "Rangbhoomi  (Hindi, Paperback, Premchand)",
     "Number of Pages" : "672",
     "Price" : 250,
-    "image40" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/rangbhoomi-original-imafz48vw2mjebg8.jpeg?alt=media&token=5cbfc77e-9f79-4f47-acec-2ad4c16d61cb"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/rangbhoomi-original-imafz48vw2mjebg8.jpeg?alt=media&token=5cbfc77e-9f79-4f47-acec-2ad4c16d61cb"
   }, {
     "Author" : "unknown",
     "Description" : "This dictionary contains more than 25,000 headwords and derivatives along with related phrases and idioms. Like our other Bilingual Dictionaries, this has been specially compiled for learners of English, students, professionals and general readers. Contains frequently used words from current use. Provides detailed grammatical information especially on irregular nouns, verbs and adjectives.Gives pronunciation in easy-to-understand format.Provides variant and alternative spellings.Gives pronunciation in an easy-to-understand format.Provides detailed definitions and synonyms in Hindi.Includes numerous examples of usage from authoritative sources which help to learn how a particular word is used.Includes useful appendices on Roman numerals, weights and measures, and chemical elements.",
@@ -416,7 +416,7 @@
     "Name" : "Oxford English-Hindi Dictionary  (English, Hardcover, unknown)",
     "Number of Pages" : "816",
     "Price" : 244,
-    "image41" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/oxford-english-hindi-dictionary-original-imafbptams54xzwx.jpeg?alt=media&token=d75d2070-27a8-4b51-ba5c-a29b7a863380"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/oxford-english-hindi-dictionary-original-imafbptams54xzwx.jpeg?alt=media&token=d75d2070-27a8-4b51-ba5c-a29b7a863380"
   }, {
     "Author" : "His Divine Grace A.C. Bhaktivedanta Swami Prabhupada",
     "Description" : "The Bhagavad Gita, often referred to as the Gita, is a 700 verse Hindu scripture in Sanskrit that is part of the Hindu epic Mahabharata.",
@@ -426,7 +426,7 @@
     "Name" : "Bhagavad Gita: As It Is 2016 English Edition",
     "Number of Pages" : "900",
     "Price" : 220,
-    "image42" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/bhagwat-geeta-as-it-is-2016-english-edition-original-imafb388gmea95dn.jpeg?alt=media&token=a94e145e-b16b-4c94-bfed-37fc23afc835"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/bhagwat-geeta-as-it-is-2016-english-edition-original-imafb388gmea95dn.jpeg?alt=media&token=a94e145e-b16b-4c94-bfed-37fc23afc835"
   }, {
     "Author" : "Hewings Martin",
     "Description" : "learn grammar ",
@@ -436,7 +436,7 @@
     "Name" : "Advanced Grammar in Use (South Asian Edition)  (English, Mixed media product, Hewings Martin)",
     "Number of Pages" : "900",
     "Price" : 365,
-    "image43" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/advanced-grammar-in-use-south-asian-edition-original-imafbp5g2y5qfrww.jpeg?alt=media&token=c042d43a-a7f4-4935-908c-c8adfd6ae498"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/advanced-grammar-in-use-south-asian-edition-original-imafbp5g2y5qfrww.jpeg?alt=media&token=c042d43a-a7f4-4935-908c-c8adfd6ae498"
   }, {
     "Author" : "Editorial Board",
     "Description" : "just prepare for your entrance",
@@ -446,7 +446,7 @@
     "Name" : "UP TGT SAMAJIK VIGYAN  (Hindi, Sahitya Bhawan, Editorial Board)",
     "Number of Pages" : "480",
     "Price" : 442,
-    "image44" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/up-tgt-samajik-vigyan-original-imafdberzbbc2gnm.jpeg?alt=media&token=25785514-0bb9-4d62-a62e-657345164214"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/up-tgt-samajik-vigyan-original-imafdberzbbc2gnm.jpeg?alt=media&token=25785514-0bb9-4d62-a62e-657345164214"
   }, {
     "Author" : "Dr. Murphy Joseph",
     "Description" : "The Power of Your Subconscious Mind is a powerful guide for those who are looking out for love, happiness, and inner strength. This book will teach you to use visualisation and other techniques to influence your unconscious behaviour in a positive light. Imagination, according to Dr. Joseph Murphy, is the driving force to suggest ideas to your subconscious mind and convey what you want. Another important lesson that you can pick from this book is related to sleep. When you are in doubt, go take a nap. You can make more confident decisions with a fresh mind. The book also teaches you to believe in wishing others well because envy will prevent you from getting what you wan",
@@ -456,7 +456,7 @@
     "Name" : "The Power of your Subconscious Mind  (English, Paperback, Dr. Murphy Joseph)",
     "Number of Pages" : "312",
     "Price" : 140,
-    "image45" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/the-power-of-your-subconscious-mind-original-imafwwgwebjdvgjh.jpeg?alt=media&token=ee9c2513-5ff3-4679-9dbe-771f9e51d64a"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/the-power-of-your-subconscious-mind-original-imafwwgwebjdvgjh.jpeg?alt=media&token=ee9c2513-5ff3-4679-9dbe-771f9e51d64a"
   }, {
     "Author" : "Stallings William",
     "Description" : "Computer Organization and Architecture: Designing for Performance is a comprehensive textbook for computer science professionals and undergraduates. The book covers the basics of computer architecture, explaining how computer memory works. It takes readers through input and output devices and how the commands are translated by the operating system. It also covers number systems, Computer Arithmetic, digital logic and Processor Structure and Function. In addition the book provides a few instruction sets for the students to understand the practical applications of the topics. It is an essential resource for anyone trying to understand advanced computer architecture and concepts such as parallel processing and multi-core computing.",
@@ -466,7 +466,7 @@
     "Name" : "Computer Organization and Architecture  (English, Paperback, Stallings William)",
     "Number of Pages" : "682",
     "Price" : 722,
-    "image46" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/computer-organization-and-architecture-designing-for-performance-original-imadsn3fzngq7hpm.jpeg?alt=media&token=8dbcb9ea-204b-40a6-9376-747436004c25"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/computer-organization-and-architecture-designing-for-performance-original-imadsn3fzngq7hpm.jpeg?alt=media&token=8dbcb9ea-204b-40a6-9376-747436004c25"
   }, {
     "Author" : "Schildt Herbert",
     "Description" : "learn java programming language",
@@ -476,7 +476,7 @@
     "Name" : "Java - The Complete Reference  (English, Paperback, Schildt Herbert)",
     "Number of Pages" : "1682",
     "Price" : 1049,
-    "image47" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/java-the-complete-reference-original-imafbz9ahc4vjqc5.jpeg?alt=media&token=688ee5e4-dca9-44e5-9fe5-c3f555323d60"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/java-the-complete-reference-original-imafbz9ahc4vjqc5.jpeg?alt=media&token=688ee5e4-dca9-44e5-9fe5-c3f555323d60"
   }, {
     "Author" : "John Nitin Ashok",
     "Description" : "knowledge about your body",
@@ -486,7 +486,7 @@
     "Name" : "CC Chatterjee's Human Physiology, Volume 1  (English, Paperback, John Nitin Ashok)",
     "Number of Pages" : "630",
     "Price" : 616,
-    "image48" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/cc-chatterjee-s-human-physiology-volume-1-original-imafhmyqcktmc7ke.jpeg?alt=media&token=9bb711ef-13a8-4197-8529-aaaeb5855ff9"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/cc-chatterjee-s-human-physiology-volume-1-original-imafhmyqcktmc7ke.jpeg?alt=media&token=9bb711ef-13a8-4197-8529-aaaeb5855ff9"
   }, {
     "Author" : "Tagore Ravindra Nath",
     "Description" : "real life story",
@@ -496,7 +496,7 @@
     "Name" : "Ravindra Nath Tagore Ki Lokpriya Kahaniyan  (Hindi, Book, Tagore Ravindra Nath)",
     "Number of Pages" : "160",
     "Price" : 276,
-    "image49" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/rabindranath-ki-kahaniyan-original-imadgqfhnmhrntrc.jpeg?alt=media&token=4f0ae10d-173b-4aae-b8f0-411fed0df333"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/rabindranath-ki-kahaniyan-original-imadgqfhnmhrntrc.jpeg?alt=media&token=4f0ae10d-173b-4aae-b8f0-411fed0df333"
   }, {
     "Author" : "Bipin Chandra",
     "Description" : "History of Modern India Latest Edition",
@@ -506,7 +506,7 @@
     "Name" : "History Of Modern India  (PAPPERBACK, Bipin Chandra)",
     "Number of Pages" : "365",
     "Price" : 190,
-    "image50" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/history-of-modern-india-original-imafw7sg5kjqwfmy.jpeg?alt=media&token=2d0eabed-b8d2-45c6-af97-3f6cc329eb86"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/history-of-modern-india-original-imafw7sg5kjqwfmy.jpeg?alt=media&token=2d0eabed-b8d2-45c6-af97-3f6cc329eb86"
   }, {
     "Author" : "RAMESH SINGH, M.LAXMIKANTH",
     "Description" : "BEST COMBO FOR CIVIL SERVICE ASPIRENTS",
@@ -516,6 +516,6 @@
     "Name" : "3 IAS/UPSC COMBO HISTORY OF MEDIVAL INDIA BY SATISH CHANDRA, HISTORY OF MODERN INDIA BY BIPIN CHANDRA, OXFORD INDIA'S ANCIENT PAST BY RS SHARMA (Best Book COMBO For IAS,IPS,IFS,UPSC,PSC,Civil Services,UGC-Net And All Indian Govt Exam) (Papar Back,COMBO,ENGLISH)  (Paperback, RAMESH SINGH, M.LAXMIKANTH)",
     "Number of Pages" : "2015",
     "Price" : 369,
-    "image51" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/3-ias-upsc-combo-history-of-medival-india-by-satish-chandra-original-imafbum3gcupyxxm.jpeg?alt=media&token=d3252a5b-d10b-49eb-bb2c-9fa39b5bc92d"
+    "image" : "https://firebasestorage.googleapis.com/v0/b/oldpushtak.appspot.com/o/3-ias-upsc-combo-history-of-medival-india-by-satish-chandra-original-imafbum3gcupyxxm.jpeg?alt=media&token=d3252a5b-d10b-49eb-bb2c-9fa39b5bc92d"
   } ]
 }

@@ -1,7 +1,24 @@
-.name{
-    padding: 20px;
-    text-align: center;
-    background: #1abc9c;
-    color: white;
-    font-size: 15px;
+.headerWrapper {
+
+    display: flex;
+    justify-content: space-between;
+
+    .oldPustakHeader{
+        display: flex;
+    
+        .logo {
+            height: 50px;
+            width: 50px;
+        }
+    
+        .logoText {
+            height: 50px;
+        }
+    }
+
+    .actionNav {
+        .sider{
+          display: flex;
+        }
+      }
 }

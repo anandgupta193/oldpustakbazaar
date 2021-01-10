@@ -1,5 +1,4 @@
 body {
-  background-color:white;
   padding: 20px;
   margin: 0;
 }
@@ -7,47 +6,49 @@ h1, ul, li {
   font-family: sans-serif;
 }
 
+.headerWrapper {
+  display: flex;
 
-.header{
-  border: 2px solid white;
+  .nav {
+    flex: 3;
+  }
+
+}
+
+
+.header {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
 }
  ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
 }
 
  li {
-  float: left;
+  margin: 5px 10px;
 }
 
  li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
   text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
- li a:hover {
-  background-color: #111;
-}
-
-.sider{
-  margin-left: 70%;
-}
 
 .bookWrapper {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
 
   .bookArticle {
-    height: 250px;
+    height: 350px;
     width: 250px;
     border: 1px solid black;
     margin: 10px;
@@ -57,7 +58,7 @@ h1, ul, li {
     flex-direction: column;
 
     .bookImage {
-      height: 200px;
+      height: 250px;
       width: 250px;
     }
 
@@ -66,10 +67,19 @@ h1, ul, li {
       justify-content: space-evenly;
       margin-top: 10px;
     }
+
+    .attributes {
+      margin-top: 10px;
+
+      .attributesName {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+    }
   }  
 }
 
-
-.ss{
-  background-color: white;
+.actionBar {
+  display: flex;
 }
