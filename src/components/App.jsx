@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import React from 'react';
 import BookListMainPage from './booklisting/BookListMainPage';
 

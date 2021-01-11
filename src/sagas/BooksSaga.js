@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import { takeLatest, put, call } from 'redux-saga/effects';
 import { GET_BOOKS, GET_BOOKS_SUCCESS } from '../actionTypes/BooksActionTypes';
 import RestClient from '../utils/RestClient';

@@ -73,9 +73,11 @@ const BookList = () => {
               </Link>
             </li>
             <li>
-              <Button variant="contained" color="secondary" href="#contained-buttons">
-                Terms & Conditions
-              </Button>
+              <Link to="/terms&condition">
+                <Button variant="contained" color="secondary">
+                  Terms & Conditions
+                </Button>
+              </Link>
             </li>
             <li>
               <Button variant="contained" color="secondary" href="#contained-buttons">

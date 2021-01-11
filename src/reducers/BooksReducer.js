@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import { GET_BOOKS_SUCCESS, FILTER_BOOKS } from '../actionTypes/BooksActionTypes';
 import bookData from '../../oldpushtak-export.json';
 

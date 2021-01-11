@@ -1,9 +1,11 @@
+/* eslint-disable linebreak-style */
 import React, { Suspense } from 'react';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import Loader from '../components/loader/Loader';
 import NotFound from './Routes.lazy';
 import App from '../components/App';
 import AboutUs from '../components/aboutUs/AboutUs';
+import TermsCondition from '../components/termsCondition/TermsCondition';
 import WishList from '../components/wishlist/WishList';
 
 const Routes = () => (
@@ -14,6 +16,7 @@ const Routes = () => (
           <Route exact path="/" component={App} />
           <Route exact path="/home" component={App} />
           <Route path="/about" component={AboutUs} />
+          <Route path="/terms&condition" component={TermsCondition} />
           <Route path="/wishlist" component={WishList} />
           <Route path="/notfound" component={NotFound} />
         </Switch>

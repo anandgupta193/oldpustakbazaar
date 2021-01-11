@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import { combineReducers } from 'redux';
 import counter from './CounterReducer';
 import books from './BooksReducer';
