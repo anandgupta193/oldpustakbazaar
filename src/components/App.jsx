@@ -1,6 +1,7 @@
+/* eslint-disable linebreak-style */
 import React from 'react';
-import Home from './home/Home';
+import BookListMainPage from './booklisting/BookListMainPage';
 
-const App = () => <Home />;
+const App = () => <BookListMainPage />;
 
 export default App;

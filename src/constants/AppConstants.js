@@ -7,3 +7,5 @@ export const requestObject = {
   data: {},
   config: {},
 };
+
+export const BASE_URL = 'https://oldpushtak.firebaseio.com/BookDetails';

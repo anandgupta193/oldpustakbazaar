@@ -1,0 +1,24 @@
+import {
+  GET_BOOKS,
+  CREATE_BOOK,
+  FILTER_BOOKS,
+  ADD_TO_WISH_LIST,
+} from '../actionTypes/BooksActionTypes';
+
+export const getBooks = () => ({
+  type: GET_BOOKS,
+});
+
+export const createBook = () => ({
+  type: CREATE_BOOK,
+});
+
+export const applyFilter = (searchStr) => ({
+  type: FILTER_BOOKS,
+  searchStr,
+});
+
+export const addToWishList = (payload) => ({
+  type: ADD_TO_WISH_LIST,
+  payload,
+});

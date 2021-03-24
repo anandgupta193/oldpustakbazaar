@@ -13,6 +13,7 @@ ReactDOM.hydrate(
 );
 
 if (!__DEVELOPMENT__ && !__SERVER__) {
+  // eslint-disable-next-line func-names
   (function () {
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
