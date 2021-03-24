@@ -2,8 +2,8 @@
 /* eslint-disable no-console */
 import React, { useEffect } from 'react';
 import { Button } from '@material-ui/core';
-import { Link } from 'react-router-dom';
 import { useSelector, useDispatch } from 'react-redux';
+import Navigation from '../nav/Nav';
 import ListStyles from './BookListMainPage.scss';
 import Header from '../header/Header';
 import Footer from '../footer/Footer';
@@ -56,36 +56,7 @@ const BookList = () => {
     <div>
       <Header isWishList />
       <div className={ListStyles.headerWrapper}>
-        <div className={ListStyles.nav}>
-          <ul className={ListStyles.header}>
-            <li>
-              <Link to="/">
-                <Button variant="contained" color="secondary">
-                  Home
-                </Button>
-              </Link>
-            </li>
-            <li>
-              <Link to="/about">
-                <Button variant="contained" color="secondary">
-                  About Us
-                </Button>
-              </Link>
-            </li>
-            <li>
-              <Link to="/terms&condition">
-                <Button variant="contained" color="secondary">
-                  Terms & Conditions
-                </Button>
-              </Link>
-            </li>
-            <li>
-              <Button variant="contained" color="secondary" href="#contained-buttons">
-                Contact Us
-              </Button>
-            </li>
-          </ul>
-        </div>
+        <Navigation />
       </div>
       <div>
         <ul className={ListStyles.actionBar}>

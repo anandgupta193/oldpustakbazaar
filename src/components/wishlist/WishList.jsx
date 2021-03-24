@@ -2,14 +2,13 @@
 /* eslint-disable no-console */
 import React, { useEffect } from 'react';
 import { Button } from '@material-ui/core';
-import { Link } from 'react-router-dom';
 import { useSelector, useDispatch } from 'react-redux';
+import Navigation from '../nav/Nav';
 import WishListStyles from './WishList.scss';
 import Header from '../header/Header';
 import Footer from '../footer/Footer';
 import { getBooks } from '../../actions/BooksAction';
 import SearchBar from '../search/SearchBar';
-// import UploadButtons from '../sellbook/SellBook';
 
 const WishList = () => {
   const dispatch = useDispatch();
@@ -35,46 +34,17 @@ const WishList = () => {
   const booksJSX = getBooksJSX(wishList);
 
   useEffect(() => {
-    console.log('component mounted');
     dispatch(getBooks());
   });
   return (
     <div>
       <Header isWishList={false} />
       <div className={WishListStyles.headerWrapper}>
-        <div className={WishListStyles.nav}>
-          <ul className={WishListStyles.header}>
-            <li>
-              <Link to="/">
-                <Button variant="contained" color="secondary">
-                  Home
-                </Button>
-              </Link>
-            </li>
-            <li>
-              <Link to="/about">
-                <Button variant="contained" color="secondary">
-                  About Us
-                </Button>
-              </Link>
-            </li>
-            <li>
-              <Button variant="contained" color="secondary">
-                Terms & Conditions
-              </Button>
-            </li>
-            <li>
-              <Button variant="contained" color="secondary">
-                Contact Us
-              </Button>
-            </li>
-          </ul>
-        </div>
+        <Navigation />
       </div>
       <div>
         <ul className={WishListStyles.actionBar}>
           <li><SearchBar /></li>
-          {/* <li><UploadButtons /></li> */}
         </ul>
       </div>
       <div className={WishListStyles.bookWrapper}>
