@@ -51,7 +51,7 @@ const BookList = () => {
   useEffect(() => {
     console.log('component mounted');
     dispatch(getBooks());
-  });
+  }, []);
   return (
     <div>
       <Header isWishList />
