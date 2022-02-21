@@ -1,0 +1,31 @@
+
+ ul, li {
+    font-family: sans-serif;
+  }
+  
+  
+   ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+   li a {
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+
+.search{
+    margin-top: 10%;
+    border: 2px solid white;
+  }
+  .prod{
+    margin-left: 34%;
+  }
+  .blog{
+    margin-left: 34%;
+  }
