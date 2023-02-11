@@ -124,7 +124,7 @@
     "ignore-styles": "^5.0.1",
     "jest": "^26.1.0",
     "lint-staged": "^10.2.11",
-    "nodemon": "^2.0.4",
+    "nodemon": "^2.0.20",
     "optimize-css-assets-webpack-plugin": "^5.0.3",
     "postcss-loader": "^3.0.0",
     "prettier": "^2.0.5",
